@@ -1,16 +1,16 @@
-## Hi there 👋
+# FutureStack Intelligence
 
-<!--
-**futurestackintel/FutureStackIntel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building open-source cybersecurity tools for Africa.
 
-Here are some ideas to get you started:
+## Products
+- **PhantomCheck** — AI-powered OSINT reconnaissance tool — [Try it free](https://phantomstack.pages.dev/app.html)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Books
+- [The Digital Ghost](https://futurestackintel.gumroad.com/l/cwxnb)
+- [Dark Web Explained](https://futurestackintel.gumroad.com/l/depbg)
+- [The Agentic Fortress](https://futurestackintel.gumroad.com/l/pwghz)
+
+## Support This Work
+If PhantomCheck has been useful, consider sponsoring.
+
+Based in Ilorin, Nigeria.
