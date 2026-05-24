@@ -10,7 +10,10 @@ Building open-source cybersecurity tools for Africa.
 - [Dark Web Explained](https://futurestackintel.gumroad.com/l/depbg)
 - [The Agentic Fortress](https://futurestackintel.gumroad.com/l/pwghz)
 
-## Support This Work
-If PhantomCheck has been useful, consider sponsoring.
+## Support This Project
 
+PhantomCheck is free and open source forever. 
+If it has been useful, consider supporting development:
+
+- [Flutterwave — International & Nigerian cards](https://flutterwave.com/donate/ugstejgoyctr)
 Based in Ilorin, Nigeria.
